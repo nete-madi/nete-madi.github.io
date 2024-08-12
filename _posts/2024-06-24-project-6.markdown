@@ -7,5 +7,5 @@ img: game.png
 alt: image-alt
 project-date: June 2024
 category: MonoGame, C#, .NET
-description: I developed a game of Pong to utilize my existing C# skills and learn the MonoGame framework. The game can be found on <a href="https://github.com/nete-madi/ultrabot" target="_blank">my GitHub.</a>
+description: I developed a game of Pong to utilize my existing C# skills and learn the MonoGame framework, which is an extension of the Microsoft XNA game development framework. The game can be found on <a href="https://github.com/nete-madi/pong" target="_blank">my GitHub.</a>
 ---
